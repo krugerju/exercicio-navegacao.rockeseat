@@ -63,4 +63,4 @@ Bom exercício.
 ----
 
 
-- [Visite o projeto online](https://github.com/krugerju/exercicio-navegacao.rockeseat.git)
+- [Visite o projeto online](https://krugerju.github.io/exercicio-navegacao.rockeseat/)
