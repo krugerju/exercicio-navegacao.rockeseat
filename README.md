@@ -22,8 +22,6 @@ Esse projeto foi desenvolvido com HTML.
 O exercício é da trilha Fundamentar da Rocketseat, módulo 2 - Guia Estelar HTML, aulas de links. 
 O projeto deveria conter os seguintes requisitos:
 
-Descrição
-Vamos praticar o que aprendemos.
 
 Crie um projeto contendo:
  - 2 arquivos no diretório principal (index.html e contact.html)
@@ -58,7 +56,6 @@ Para o conteúdo da tag p, se desejar, poderá fazer o uso do atalholorem que ex
 Para isso digite lorem e em seguida aperte tab.
 atenção: alguns computadores isso pode não funcionar, portanto, não se atenha a isso e continue o exercício sem essa dica.</strong>
 
-Bom exercício.
 
 ----
 
